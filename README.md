@@ -1,6 +1,6 @@
 #   Projeto: GuessNumber
 
-![preview](./github/preview.png)
+![preview](./preview.png)
 
 ## Descrição:
 Projeto, brincando com os números, tentativas de acertar o número correto de (0-10). 
