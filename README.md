@@ -1,5 +1,4 @@
 #   Projeto: GuessNumber
-
 ![preview](./preview.png)
 
 ## Descrição:
@@ -11,7 +10,6 @@ Pondo em prática meus conhecimentos em HTML, CSS e JavaScript!
 
 
 ## 🛠 Tecnologias:
-
 - HTML
 - CSS
 - Javascript
