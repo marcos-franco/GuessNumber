@@ -6,7 +6,7 @@ Projeto, brincando com os números, tentativas de acertar o número correto de (
 Pondo em prática meus conhecimentos em HTML, CSS e JavaScript!
 
 
-[🔗 Clique aqui para acessar](https://marcos-franco.github.io/GuessNumber/)
+[🔗 Clique aqui para acessar o site GuessNumber](https://marcos-franco.github.io/GuessNumber/)
 
 
 ## 🛠 Tecnologias:
